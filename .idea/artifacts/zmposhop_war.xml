@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="zmposhop:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="zmposhop-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="zmposhop:war exploded" />
+    </root>
+  </artifact>
+</component>
